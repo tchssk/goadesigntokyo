@@ -1,4 +1,4 @@
-# How I create a Microservice with goa
+# How I create a Microservice using goa
 <!-- .slide: data-transition="fade" -->
 
 \#goadesigntokyo
